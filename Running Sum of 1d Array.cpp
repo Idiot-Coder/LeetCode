@@ -5,4 +5,4 @@ public:
             nums[i] += nums[i-1] ;
         return nums ;
     }
-}
+};
