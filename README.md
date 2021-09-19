@@ -1,5 +1,5 @@
-# LeetCode-
-In this repo you find solutions to all the LeetCode questions that I have solved using C++ language.
+# LeetCode
+Here In this repository, you will find all the solutions to the leetcode questions that I have solved using the C++ programming language. I will be solving 3-5 questions daily.
 
 ---
 
@@ -17,3 +17,9 @@ In this repo you find solutions to all the LeetCode questions that I have solved
       Medium:
       <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
+      
+      To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+      
+      *Here's the guide for problem constraints:* <br/>
+      ![problem-constraints-guide](https://github.com/FazeelUsmani/Amazon-SDE-Test-Series/blob/master/img/problem-constraints.png)
+      
