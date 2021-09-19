@@ -15,4 +15,5 @@ In this repo you find solutions to all the LeetCode questions that I have solved
       [Find Pivot Index](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20Pivot%20Index.cpp) <br/>
       [Majority Element](https://github.com/Idiot-Coder/LeetCode/blob/main/Majority%20Element.cpp) <br/>
       Medium:
+      <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
