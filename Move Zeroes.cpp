@@ -12,4 +12,4 @@ public:
             nums[slow] = 0;
         }
     }
-}
+};
