@@ -7,4 +7,4 @@ public:
                 net_profit+=(prices[i]-prices[i-1]);
         return net_profit;
     }
-}
+};
