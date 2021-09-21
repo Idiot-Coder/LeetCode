@@ -1,3 +1,7 @@
+//Program to Find Pivot Index
+//Created by Aryan
+//Created on 19/09/2021
+
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
