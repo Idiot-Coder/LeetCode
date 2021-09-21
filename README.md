@@ -22,6 +22,14 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
       
+1. String-
+      <br/>
+      Easy :
+      <br/>
+      [Add Strings](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Strings.cpp)
+      [Longest Common Prefix](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Common%20Prefix.cpp)
+      [Valid Palindrome II](https://github.com/Idiot-Coder/LeetCode/blob/main/Valid%20Palindrome%20II.cpp)
+      
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
       *Here's the guide for problem constraints:* <br/>
