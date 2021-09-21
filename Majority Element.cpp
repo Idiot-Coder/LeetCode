@@ -1,3 +1,7 @@
+//Program to Majority Element
+//Created by Aryan
+//Created on 19/09/2021
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
