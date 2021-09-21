@@ -1,3 +1,7 @@
+//Program to Merge Sorted Array
+//Created by Aryan
+//Created on 17/09/2021
+
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
