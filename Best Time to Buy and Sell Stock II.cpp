@@ -1,3 +1,7 @@
+//Program to Best Time to Buy and Sell Stock II
+//Created by Aryan
+//Created on 19/09/2021
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
