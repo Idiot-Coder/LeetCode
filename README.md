@@ -26,9 +26,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       Easy :
       <br/>
-      [Add Strings](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Strings.cpp)
-      [Longest Common Prefix](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Common%20Prefix.cpp)
-      [Valid Palindrome II](https://github.com/Idiot-Coder/LeetCode/blob/main/Valid%20Palindrome%20II.cpp)
+      [Add Strings](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Strings.cpp) <br/>
+      [Longest Common Prefix](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Common%20Prefix.cpp) <br/>
+      [Valid Palindrome II](https://github.com/Idiot-Coder/LeetCode/blob/main/Valid%20Palindrome%20II.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
