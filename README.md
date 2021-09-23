@@ -40,6 +40,8 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Add Binary](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Binary.cpp) <br/>
       [Palindrome Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Palindrome%20Number.cpp) <br/>
       [Minimum Moves to Equal Array Elements](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp) <br/>
+      [Happy Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Happy%20Number.cpp) <br/>
+      [Excel Sheet Column Title](https://github.com/Idiot-Coder/LeetCode/blob/main/Excel%20Sheet%20Column%20Title.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
