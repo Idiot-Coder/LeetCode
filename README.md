@@ -22,7 +22,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
       
-1. String-
+2. String-
       <br/>
       Easy :
       <br/>
@@ -31,6 +31,15 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Valid Palindrome II](https://github.com/Idiot-Coder/LeetCode/blob/main/Valid%20Palindrome%20II.cpp) <br/>
       [Roman to Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Roman%20to%20Integer.cpp) <br/>
       [Implement strStr()](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20strStr().cpp) <br/>
+      
+3. Maths-
+      <br/>
+      Easy :
+      <br/> 
+      [Reverse Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Integer.cpp) <br/>
+      [Add Binary](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Binary.cpp) <br/>
+      [Palindrome Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Palindrome%20Number.cpp) <br/>
+      [Minimum Moves to Equal Array Elements](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
