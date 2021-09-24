@@ -42,6 +42,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Minimum Moves to Equal Array Elements](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Moves%20to%20Equal%20Array%20Elements.cpp) <br/>
       [Happy Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Happy%20Number.cpp) <br/>
       [Excel Sheet Column Title](https://github.com/Idiot-Coder/LeetCode/blob/main/Excel%20Sheet%20Column%20Title.cpp) <br/>
+      [Missing Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Missing%20Number.cpp) <br/>
+      [Maximum Product of Three Numbers](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Product%20of%20Three%20Numbers.cpp) <br/>
+      [Power of Two](https://github.com/Idiot-Coder/LeetCode/blob/main/Power%20of%20Two.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
