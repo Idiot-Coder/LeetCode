@@ -46,6 +46,13 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Maximum Product of Three Numbers](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Product%20of%20Three%20Numbers.cpp) <br/>
       [Power of Two](https://github.com/Idiot-Coder/LeetCode/blob/main/Power%20of%20Two.cpp) <br/>
       
+4. Stack-
+      <br/>
+      Easy :
+      <br/>
+      [Min Stack](https://github.com/Idiot-Coder/LeetCode/blob/main/Min%20Stack.cpp) <br/>
+      [Next Greater Element I](https://github.com/Idiot-Coder/LeetCode/blob/main/Next%20Greater%20Element%20I.cpp) <br/>
+      
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
       *Here's the guide for problem constraints:* <br/>
