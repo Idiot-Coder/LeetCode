@@ -52,6 +52,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Min Stack](https://github.com/Idiot-Coder/LeetCode/blob/main/Min%20Stack.cpp) <br/>
       [Next Greater Element I](https://github.com/Idiot-Coder/LeetCode/blob/main/Next%20Greater%20Element%20I.cpp) <br/>
+      [Backspace String Compare](https://github.com/Idiot-Coder/LeetCode/blob/main/Backspace%20String%20Compare.cpp) <br/>
+      [Implement Queue using Stacks](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20Queue%20using%20Stacks.cpp) <br/>
+      [Implement Stack using Queues](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20Stack%20using%20Queues.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
