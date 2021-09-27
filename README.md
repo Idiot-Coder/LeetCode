@@ -56,6 +56,14 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Implement Queue using Stacks](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20Queue%20using%20Stacks.cpp) <br/>
       [Implement Stack using Queues](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20Stack%20using%20Queues.cpp) <br/>
       
+5. Linked List-
+      <br/>
+      Easy :
+      <br/>
+      [Delete Node in a Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Delete%20Node%20in%20a%20Linked%20List.cpp) <br/>
+      [Middle of the Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Middle%20of%20the%20Linked%20List.cpp) <br/>
+      [Convert Binary Number in a Linked List to Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp) <br/>
+      
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
       *Here's the guide for problem constraints:* <br/>
