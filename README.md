@@ -63,6 +63,8 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Delete Node in a Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Delete%20Node%20in%20a%20Linked%20List.cpp) <br/>
       [Middle of the Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Middle%20of%20the%20Linked%20List.cpp) <br/>
       [Convert Binary Number in a Linked List to Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp) <br/>
+      [Design Hashset](https://github.com/Idiot-Coder/LeetCode/blob/main/Design%20Hashset.cpp) <br/>
+      [Design HashMap](https://github.com/Idiot-Coder/LeetCode/blob/main/Design%20HashMap.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
