@@ -65,6 +65,8 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Convert Binary Number in a Linked List to Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp) <br/>
       [Design Hashset](https://github.com/Idiot-Coder/LeetCode/blob/main/Design%20Hashset.cpp) <br/>
       [Design HashMap](https://github.com/Idiot-Coder/LeetCode/blob/main/Design%20HashMap.cpp) <br/>
+      [Reverse Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Linked%20List.cpp) <br/>
+      [Merge Two Sorted Lists](https://github.com/Idiot-Coder/LeetCode/blob/main/Merge%20Two%20Sorted%20Lists.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
