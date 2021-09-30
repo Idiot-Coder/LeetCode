@@ -67,6 +67,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Design HashMap](https://github.com/Idiot-Coder/LeetCode/blob/main/Design%20HashMap.cpp) <br/>
       [Reverse Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Linked%20List.cpp) <br/>
       [Merge Two Sorted Lists](https://github.com/Idiot-Coder/LeetCode/blob/main/Merge%20Two%20Sorted%20Lists.cpp) <br/>
+      [Remove Duplicates from Sorted List](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20List.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
