@@ -80,6 +80,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Diameter of Binary Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Diameter%20of%20Binary%20Tree.cpp) <br/>
       [Invert Binary Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Invert%20Binary%20Tree.cpp) <br/>
+      [Subtree of Another Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Subtree%20of%20Another%20Tree.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
