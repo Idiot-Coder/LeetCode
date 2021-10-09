@@ -73,6 +73,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Linked List Cycle](https://github.com/Idiot-Coder/LeetCode/blob/main/Linked%20List%20Cycle.cpp) <br/>
       [Palindrome Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Palindrome%20Linked%20List.cpp) <br/>
       [Remove Linked List Elements](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Linked%20List%20Elements.cpp) <br/>
+      Medium:
+      <br/>
+      [Add Two Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Two%20Number.cpp) <br/>
       
 6. Tree-
       <br/>
