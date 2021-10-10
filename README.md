@@ -87,8 +87,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       
 6. Binary Search-
       <br/>
-      Easy :
-      <br/>     
+      Easy :     
       [Sqrt(x)](https://github.com/Idiot-Coder/LeetCode/blob/main/Sqrt(x).cpp) <br/>
       [Binary Search](https://github.com/Idiot-Coder/LeetCode/blob/main/Binary%20Search.cpp) <br/>
       
