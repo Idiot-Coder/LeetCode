@@ -85,6 +85,13 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Invert Binary Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Invert%20Binary%20Tree.cpp) <br/>
       [Subtree of Another Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Subtree%20of%20Another%20Tree.cpp) <br/>
       
+6. Binary Search-
+      <br/>
+      Easy :
+      <br/>     
+      [Sqrt(x)](https://github.com/Idiot-Coder/LeetCode/blob/main/Sqrt(x).cpp) <br/>
+      [Binary Search](https://github.com/Idiot-Coder/LeetCode/blob/main/Binary%20Search.cpp) <br/>
+      
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
       *Here's the guide for problem constraints:* <br/>
