@@ -90,6 +90,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       Easy :     
       [Sqrt(x)](https://github.com/Idiot-Coder/LeetCode/blob/main/Sqrt(x).cpp) <br/>
       [Binary Search](https://github.com/Idiot-Coder/LeetCode/blob/main/Binary%20Search.cpp) <br/>
+      [Count Negative Numbers in a Sorted Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
