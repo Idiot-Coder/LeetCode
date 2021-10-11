@@ -18,7 +18,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Squares of a Sorted Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Squares%20of%20a%20Sorted%20Array.cpp) <br/>
       [Pascal's Triangle](https://github.com/Idiot-Coder/LeetCode/blob/main/Pascal's%20Triangle.cpp) <br/>
       [Remove Duplicates from Sorted Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20Array.cpp) <br/>
-      Medium:
+      Medium :
       <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
       [Merge Intervals](https://github.com/Idiot-Coder/LeetCode/blob/main/Merge%20Intervals.cpp) <br/>
@@ -73,7 +73,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Linked List Cycle](https://github.com/Idiot-Coder/LeetCode/blob/main/Linked%20List%20Cycle.cpp) <br/>
       [Palindrome Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Palindrome%20Linked%20List.cpp) <br/>
       [Remove Linked List Elements](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Linked%20List%20Elements.cpp) <br/>
-      Medium:
+      Medium :
       <br/>
       [Add Two Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Two%20Number.cpp) <br/>
       
