@@ -97,6 +97,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       Medium : 
       <br/>
       [Partition Labels](https://github.com/Idiot-Coder/LeetCode/blob/main/Partition%20Labels.cpp) <br/>
+      [Sort Colors](https://github.com/Idiot-Coder/LeetCode/blob/main/Sort%20Colors.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
