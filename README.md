@@ -94,11 +94,12 @@ Here In this repository, you will find all the solutions to the leetcode questio
       
 7. Two Pointer-
       <br/>
-      Medium : 
+      Medium/ Hard : 
       <br/>
       [Partition Labels](https://github.com/Idiot-Coder/LeetCode/blob/main/Partition%20Labels.cpp) <br/>
       [Sort Colors](https://github.com/Idiot-Coder/LeetCode/blob/main/Sort%20Colors.cpp) <br/>
       [Longest Repeating Character Replacement](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Repeating%20Character%20Replacement.cpp) <br/>
+      [Maximum Number of Visible Points](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Number%20of%20Visible%20Points.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
