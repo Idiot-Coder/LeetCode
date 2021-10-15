@@ -22,6 +22,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Best Time to Buy and Sell Stock II](https://github.com/Idiot-Coder/LeetCode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) <br/>
       [Merge Intervals](https://github.com/Idiot-Coder/LeetCode/blob/main/Merge%20Intervals.cpp) <br/>
+      [3Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/3Sum.cpp) <br/>
       
 2. String-
       <br/>
