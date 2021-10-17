@@ -34,6 +34,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Valid Palindrome II](https://github.com/Idiot-Coder/LeetCode/blob/main/Valid%20Palindrome%20II.cpp) <br/>
       [Roman to Integer](https://github.com/Idiot-Coder/LeetCode/blob/main/Roman%20to%20Integer.cpp) <br/>
       [Implement strStr()](https://github.com/Idiot-Coder/LeetCode/blob/main/Implement%20strStr().cpp) <br/>
+      Medium :
+      <br/>
+      [Longest Substring Without Repeating Characters](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Substring%20Without%20Repeating%20Characters.cpp) <br/>
       
 3. Maths-
       <br/>
