@@ -105,6 +105,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Sort Colors](https://github.com/Idiot-Coder/LeetCode/blob/main/Sort%20Colors.cpp) <br/>
       [Longest Repeating Character Replacement](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Repeating%20Character%20Replacement.cpp) <br/>
       [Maximum Number of Visible Points](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Number%20of%20Visible%20Points.cpp) <br/>
+      [Subarrays with K Different Integers](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarrays%20with%20K%20Different%20Integers.cpp) <br/>
       
       To visualize data structures use [VisuAlgo](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
       
