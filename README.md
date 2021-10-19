@@ -37,6 +37,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       Medium :
       <br/>
       [Longest Substring Without Repeating Characters](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Substring%20Without%20Repeating%20Characters.cpp) <br/>
+      [Minimum Remove to Make Valid Parentheses](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp) <br/>
       
 3. Maths-
       <br/>
