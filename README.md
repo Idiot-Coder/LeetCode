@@ -98,6 +98,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Sqrt(x)](https://github.com/Idiot-Coder/LeetCode/blob/main/Sqrt(x).cpp) <br/>
       [Binary Search](https://github.com/Idiot-Coder/LeetCode/blob/main/Binary%20Search.cpp) <br/>
       [Count Negative Numbers in a Sorted Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp) <br/>
+      [Peak Index in a Mountain Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Peak%20Index%20in%20a%20Mountain%20Array.cpp) <br/>
       
 7. Two Pointer-
       <br/>
