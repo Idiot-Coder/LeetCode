@@ -83,6 +83,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       Medium :
       <br/>
       [Add Two Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Two%20Number.cpp) <br/>
+      [Copy List with Random Pointer](https://github.com/Idiot-Coder/LeetCode/blob/main/Copy%20List%20with%20Random%20Pointer.cpp) <br/>
       
 6. Tree-
       <br/>
