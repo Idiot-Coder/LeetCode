@@ -87,6 +87,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Add Two Numbers II](https://github.com/Idiot-Coder/LeetCode/blob/main/Add%20Two%20Numbers%20II.cpp) <br/>
       [Reverse Linked List II](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Linked%20List%20II.cpp) <br/>
       [Reorder List](https://github.com/Idiot-Coder/LeetCode/blob/main/Reorder%20List.cpp) <br/>
+      [Remove Nth Node From End of List](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.cpp) <br/>
       
 6. Tree-
       <br/>
