@@ -90,6 +90,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Remove Nth Node From End of List](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Nth%20Node%20From%20End%20of%20List.cpp) <br/>
       [Flatten a Multilevel Doubly Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp) <br/>
       [Partition List](https://github.com/Idiot-Coder/LeetCode/blob/main/Partition%20List.cpp) <br/>
+      [Remove Duplicates from Sorted List II](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II.cpp) <br/>
       
 6. Tree-
       <br/>
