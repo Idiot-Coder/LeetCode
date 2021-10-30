@@ -91,6 +91,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Flatten a Multilevel Doubly Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.cpp) <br/>
       [Partition List](https://github.com/Idiot-Coder/LeetCode/blob/main/Partition%20List.cpp) <br/>
       [Remove Duplicates from Sorted List II](https://github.com/Idiot-Coder/LeetCode/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II.cpp) <br/>
+      [Odd Even Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Odd%20Even%20Linked%20List.cpp) <br/>
       
 6. Tree-
       <br/>
