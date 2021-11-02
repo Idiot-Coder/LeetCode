@@ -94,6 +94,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Odd Even Linked List](https://github.com/Idiot-Coder/LeetCode/blob/main/Odd%20Even%20Linked%20List.cpp) <br/>
       [Sort List](https://github.com/Idiot-Coder/LeetCode/blob/main/Sort%20List.cpp) <br/>
       [Swap Nodes in Pairs](https://github.com/Idiot-Coder/LeetCode/blob/main/Swap%20Nodes%20in%20Pairs.cpp) <br/>
+      [Rotate List](https://github.com/Idiot-Coder/LeetCode/blob/main/Rotate%20List.cpp) <br/>
       
 6. Tree-
       <br/>
