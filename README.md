@@ -42,6 +42,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Longest Palindromic Substring](https://github.com/Idiot-Coder/LeetCode/blob/main/Longest%20Palindromic%20Substring.cpp) <br/>
       [Group Anagrams](https://github.com/Idiot-Coder/LeetCode/blob/main/Group%20Anagrams.cpp) <br/>
       [Generate Parentheses](https://github.com/Idiot-Coder/LeetCode/blob/main/Generate%20Parentheses.cpp) <br/>
+      [Basic Calculator II](https://github.com/Idiot-Coder/LeetCode/blob/main/Basic%20Calculator%20II.cpp) <br/>
       
 3. Maths-
       <br/>
