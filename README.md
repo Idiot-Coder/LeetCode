@@ -25,6 +25,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [3Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/3Sum.cpp) <br/>
       [Product of Array Except Self](https://github.com/Idiot-Coder/LeetCode/blob/main/Product%20of%20Array%20Except%20Self.cpp) <br/>
       [Insert Delete GetRandom O(1)](https://github.com/Idiot-Coder/LeetCode/blob/main/Insert%20Delete%20GetRandom%20O(1).cpp) <br/>
+      [Subarray Sum Equals K](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarray%20Sum%20Equals%20K.cpp) <br/>
       
 2. String-
       <br/>
