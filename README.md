@@ -46,6 +46,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Basic Calculator II](https://github.com/Idiot-Coder/LeetCode/blob/main/Basic%20Calculator%20II.cpp) <br/>
       [Integer to Roman](https://github.com/Idiot-Coder/LeetCode/blob/main/Integer%20to%20Roman.cpp) <br/>
       [Reverse Words in a String](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Words%20in%20a%20String.cpp) <br/>
+      [Zigzag Conversion](https://github.com/Idiot-Coder/LeetCode/blob/main/Zigzag%20Conversion.cpp) <br/>
       
 3. Maths-
       <br/>
