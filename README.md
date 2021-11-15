@@ -125,6 +125,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Time Based Key-Value Store](https://github.com/Idiot-Coder/LeetCode/blob/main/Time%20Based%20Key-Value%20Store.cpp) <br/>
       [Search in Rotated Sorted Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Search%20in%20Rotated%20Sorted%20Array.cpp) <br/>
+      [Pow(x, n)](https://github.com/Idiot-Coder/LeetCode/blob/main/Pow(x%2C%20n).cpp) <br/>
       
 7. Two Pointer-
       <br/>
