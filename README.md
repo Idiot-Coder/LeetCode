@@ -128,6 +128,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Pow(x, n)](https://github.com/Idiot-Coder/LeetCode/blob/main/Pow(x%2C%20n).cpp) <br/>
       [Find First and Last Position of Element in Sorted Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp) <br/>
       [Find Peak Element](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20Peak%20Element.cpp) <br/>
+      [Search a 2D Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Search%20a%202D%20Matrix.cpp) <br/>
       
 7. Two Pointer-
       <br/>
