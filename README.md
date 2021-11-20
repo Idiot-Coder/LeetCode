@@ -130,6 +130,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Find Peak Element](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20Peak%20Element.cpp) <br/>
       [Search a 2D Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Search%20a%202D%20Matrix.cpp) <br/>
       [Divide Two Integers](https://github.com/Idiot-Coder/LeetCode/blob/main/Divide%20Two%20Integers.cpp) <br/>
+      [Capacity To Ship Packages Within D Days](https://github.com/Idiot-Coder/LeetCode/blob/main/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp) <br/>
       
 7. Two Pointer-
       <br/>
