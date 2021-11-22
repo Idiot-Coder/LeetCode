@@ -132,6 +132,8 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Divide Two Integers](https://github.com/Idiot-Coder/LeetCode/blob/main/Divide%20Two%20Integers.cpp) <br/>
       [Capacity To Ship Packages Within D Days](https://github.com/Idiot-Coder/LeetCode/blob/main/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp) <br/>
       [Minimum Limit of Balls in a Bag](https://github.com/Idiot-Coder/LeetCode/blob/main/Minimum%20Limit%20of%20Balls%20in%20a%20Bag.cpp) <br/>
+      Hard :
+      <br/>
       [Median of Two Sorted Arrays](https://github.com/Idiot-Coder/LeetCode/blob/main/Median%20of%20Two%20Sorted%20Arrays.cpp) <br/>
       
 7. Two Pointer-
