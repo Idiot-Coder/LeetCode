@@ -27,6 +27,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Insert Delete GetRandom O(1)](https://github.com/Idiot-Coder/LeetCode/blob/main/Insert%20Delete%20GetRandom%20O(1).cpp) <br/>
       [Subarray Sum Equals K](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarray%20Sum%20Equals%20K.cpp) <br/>
       [Next Permutation](https://github.com/Idiot-Coder/LeetCode/blob/main/Next%20Permutation.cpp) <br/>
+      [Spiral Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Spiral%20Matrix.cpp) <br/>
       
 2. String-
       <br/>
