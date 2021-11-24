@@ -28,6 +28,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Subarray Sum Equals K](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarray%20Sum%20Equals%20K.cpp) <br/>
       [Next Permutation](https://github.com/Idiot-Coder/LeetCode/blob/main/Next%20Permutation.cpp) <br/>
       [Spiral Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Spiral%20Matrix.cpp) <br/>
+      [Container With Most Water](https://github.com/Idiot-Coder/LeetCode/blob/main/Container%20With%20Most%20Water.cpp) <br/>
       
 2. String-
       <br/>
