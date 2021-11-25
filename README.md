@@ -29,6 +29,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Next Permutation](https://github.com/Idiot-Coder/LeetCode/blob/main/Next%20Permutation.cpp) <br/>
       [Spiral Matrix](https://github.com/Idiot-Coder/LeetCode/blob/main/Spiral%20Matrix.cpp) <br/>
       [Container With Most Water](https://github.com/Idiot-Coder/LeetCode/blob/main/Container%20With%20Most%20Water.cpp) <br/>
+      [Rotate Image](https://github.com/Idiot-Coder/LeetCode/blob/main/Rotate%20Image.cpp) <br>
       
 2. String-
       <br/>
