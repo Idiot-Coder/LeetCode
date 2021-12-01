@@ -34,6 +34,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Game of Life](https://github.com/Idiot-Coder/LeetCode/blob/main/Game%20of%20Life.cpp) <br/>
       [Pairs of Songs With Total Durations Divisible by 60](https://github.com/Idiot-Coder/LeetCode/blob/main/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp) <br/>
       [4Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/4Sum.cpp) <br/>
+      [Find the Duplicate Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20the%20Duplicate%20Number.cpp) <br/>
       
 2. String-
       <br/>
