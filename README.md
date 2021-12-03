@@ -71,6 +71,9 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Missing Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Missing%20Number.cpp) <br/>
       [Maximum Product of Three Numbers](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Product%20of%20Three%20Numbers.cpp) <br/>
       [Power of Two](https://github.com/Idiot-Coder/LeetCode/blob/main/Power%20of%20Two.cpp) <br/>
+      Medium :
+      <br/>
+      [Encode and Decode TinyURL](https://github.com/Idiot-Coder/LeetCode/blob/main/Encode%20and%20Decode%20TinyURL.cpp) <br/>
       
 4. Stack-
       <br/>
