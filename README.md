@@ -75,6 +75,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       <br/>
       [Encode and Decode TinyURL](https://github.com/Idiot-Coder/LeetCode/blob/main/Encode%20and%20Decode%20TinyURL.cpp) <br/>
       [String to Integer (atoi)](https://github.com/Idiot-Coder/LeetCode/blob/main/String%20to%20Integer%20(atoi).cpp) <br/>
+      [Multiply Strings](https://github.com/Idiot-Coder/LeetCode/blob/main/Multiply%20Strings.cpp) <br/>
       
 4. Stack-
       <br/>
