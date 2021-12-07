@@ -36,6 +36,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [4Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/4Sum.cpp) <br/>
       [Find the Duplicate Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20the%20Duplicate%20Number.cpp) <br/>
       [Combination Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/Combination%20Sum.cpp) <br/>
+      [Jump Game II](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game%20II.cpp) <br/>
       
 2. String-
       <br/>
