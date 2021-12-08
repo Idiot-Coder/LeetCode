@@ -37,6 +37,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Find the Duplicate Number](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20the%20Duplicate%20Number.cpp) <br/>
       [Combination Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/Combination%20Sum.cpp) <br/>
       [Jump Game II](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game%20II.cpp) <br/>
+      [Maximum Points You Can Obtain from Cards](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp) <br/>
       
 2. String-
       <br/>
