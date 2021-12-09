@@ -38,6 +38,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Combination Sum](https://github.com/Idiot-Coder/LeetCode/blob/main/Combination%20Sum.cpp) <br/>
       [Jump Game II](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game%20II.cpp) <br/>
       [Maximum Points You Can Obtain from Cards](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp) <br/>
+      [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp) <br/>
       
 2. String-
       <br/>
