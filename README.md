@@ -41,6 +41,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/Idiot-Coder/LeetCode/blob/main/Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp) <br/>
       [Max Area of Island](https://github.com/Idiot-Coder/LeetCode/blob/main/Max%20Area%20of%20Island.cpp) <br/>
       [Find All Duplicates in an Array](https://github.com/Idiot-Coder/LeetCode/blob/main/Find%20All%20Duplicates%20in%20an%20Array.cpp) <br>
+      [K-diff Pairs in an Array](https://github.com/Idiot-Coder/LeetCode/blob/main/K-diff%20Pairs%20in%20an%20Array.cpp) <br/>
       
 2. String-
       <br/>
