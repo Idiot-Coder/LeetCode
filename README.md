@@ -44,6 +44,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [K-diff Pairs in an Array](https://github.com/Idiot-Coder/LeetCode/blob/main/K-diff%20Pairs%20in%20an%20Array.cpp) <br/>
       [Subsets](https://github.com/Idiot-Coder/LeetCode/blob/main/Subsets.cpp) <br/>
       [Invalid Transactions](https://github.com/Idiot-Coder/LeetCode/blob/main/Invalid%20Transactions.cpp) <br/>
+      [Jump Game](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game.cpp) <br>
       
 2. String-
       <br/>
