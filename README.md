@@ -45,6 +45,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Subsets](https://github.com/Idiot-Coder/LeetCode/blob/main/Subsets.cpp) <br/>
       [Invalid Transactions](https://github.com/Idiot-Coder/LeetCode/blob/main/Invalid%20Transactions.cpp) <br/>
       [Jump Game](https://github.com/Idiot-Coder/LeetCode/blob/main/Jump%20Game.cpp) <br>
+      [Subarray Sums Divisible by K](https://github.com/Idiot-Coder/LeetCode/blob/main/Subarray%20Sums%20Divisible%20by%20K.cpp) <br/>
       
 2. String-
       <br/>
