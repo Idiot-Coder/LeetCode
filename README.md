@@ -132,6 +132,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       Hard :
       <br/>
       [Merge k Sorted Lists](https://github.com/Idiot-Coder/LeetCode/blob/main/Merge%20k%20Sorted%20Lists.cp) <br/>
+      [Reverse Nodes in k-Group](https://github.com/Idiot-Coder/LeetCode/blob/main/Reverse%20Nodes%20in%20k-Group.cpp) <br/>
       
 6. Tree-
       <br/>
