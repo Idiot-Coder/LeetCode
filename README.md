@@ -142,6 +142,7 @@ Here In this repository, you will find all the solutions to the leetcode questio
       [Invert Binary Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Invert%20Binary%20Tree.cpp) <br/>
       [Subtree of Another Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Subtree%20of%20Another%20Tree.cpp) <br/>
       [Range Sum of BST](https://github.com/Idiot-Coder/LeetCode/blob/main/Range%20Sum%20of%20BST.cpp) <br/>
+      [Symmetric Tree](https://github.com/Idiot-Coder/LeetCode/blob/main/Symmetric%20Tree.cpp) <br/>
       
 6. Binary Search-
       <br/>
